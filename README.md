@@ -1,6 +1,6 @@
 # Udacity Catalog Item Project
 
-This project part of [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+This project part of [Udacity Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ### Project Description
 
